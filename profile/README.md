@@ -2,7 +2,7 @@
 
 # ⚡Projects:
  - [SearchVision](https://github.com/BrandonS09/SearchVision) a software that streamlines the creation of computer vision models by using search to get data and train on data. Still in progress.
-More to come very soon
+- More to come very soon
 
 
 <!--
